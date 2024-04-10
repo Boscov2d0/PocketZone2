@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb7a75186c880445ad9484a3c521b9b, type: 3}
+  m_Name: AK-74
+  m_EditorClassIdentifier: 
+  Name: AK-74
+  Description: Kalashnikov assault rifle model 1974
+  MaxCount: 1
+  IconSprite: {fileID: 21300000, guid: 6532bc2c52f179142a7333cc0f5faeda, type: 3}
+  Class: 6
+  Prefab: {fileID: 7390169236816291280, guid: a95f22030ab48764dac9060dabab228a, type: 3}
+  Count: 0
+  Damage: 10
+  Distance: 1
+  DelayTime: 0.3
+  ReloadTime: 5
+  MagazineSize: 30
+  BulletPrefab: {fileID: 4481626732231134886, guid: 0463bc65c5a88f747b9ad38456d2e934, type: 3}
+  CountPatronsInMagazine: 0
